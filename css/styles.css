@@ -346,6 +346,7 @@ img {
   color: var(--main-header);
 }
 .socials-link {
+  display: inline-block;
   fill: var(--soc-main-color);
 }
 /* Секция CLIENTS */
@@ -450,6 +451,7 @@ img {
   color: var(--main-header);
 }
 .foot-socials-link {
+  display: inline-block;
   fill: var(--main-header);
 }
 /* ПОРТФОЛИО - Фильтр */
